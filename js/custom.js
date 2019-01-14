@@ -18,6 +18,7 @@
             });
         };
     };
+    
     navbarFixed();
     
     function testimonialSlider(){
